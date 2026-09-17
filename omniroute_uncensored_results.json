@@ -1,0 +1,74 @@
+{
+  "dolphin-mistral-24b-venice-edition": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/cognitivecomputations/dolphin-mistral-24b-venice-edition"
+  },
+  "hermes-4-405b": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/nousresearch/hermes-4-405b"
+  },
+  "hermes-4-70b": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/nousresearch/hermes-4-70b"
+  },
+  "hermes-3-llama-3.1-405b": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/nousresearch/hermes-3-llama-3.1-405b"
+  },
+  "hermes-3-llama-3.1-70b": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/nousresearch/hermes-3-llama-3.1-70b"
+  },
+  "wizardlm-2-8x22b": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/microsoft/wizardlm-2-8x22b"
+  },
+  "deepseek-chat": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/deepseek/deepseek-chat"
+  },
+  "deepseek-v3.2": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/deepseek/deepseek-v3.2"
+  },
+  "deepseek-r1": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "openrouter/deepseek/deepseek-r1"
+  },
+  "deepseek-v4-flash": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "opencode/deepseek-v4-flash"
+  },
+  "deepseek-v4-pro": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "opencode/deepseek-v4-pro"
+  },
+  "deepseek_v4": {
+    "score": 0.0,
+    "avg": 0.0,
+    "label": "CENSORED",
+    "model_id": "tllm/deepseek_v4"
+  }
+}

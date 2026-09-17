@@ -1,0 +1,7 @@
+[console_scripts]
+hermes = mikasa_cli.main:main
+hermes-acp = acp_adapter.entry:main
+hermes-agent = run_agent:main
+mikasa = mikasa_cli.main:main
+mikasa-acp = acp_adapter.entry:main
+mikasa-agent = run_agent:main

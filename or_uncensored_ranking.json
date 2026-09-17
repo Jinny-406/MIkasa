@@ -1,0 +1,72 @@
+{
+  "dolphin-mistral-24b-venice-edition": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition"
+  },
+  "hermes-4-405b": {
+    "score": 0.0,
+    "status": "ERR:Error code: 402 - {'error': {'message': 'This request re",
+    "model_id": "nousresearch/hermes-4-405b"
+  },
+  "hermes-4-70b": {
+    "score": 0.0,
+    "status": "ERR:Error code: 404 - {'error': {'message': 'Provider return",
+    "model_id": "nousresearch/hermes-4-70b"
+  },
+  "hermes-3-llama-3.1-405b": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "nousresearch/hermes-3-llama-3.1-405b"
+  },
+  "hermes-3-llama-3.1-70b": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "nousresearch/hermes-3-llama-3.1-70b"
+  },
+  "wizardlm-2-8x22b": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "microsoft/wizardlm-2-8x22b"
+  },
+  "deepseek-chat": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "deepseek/deepseek-chat"
+  },
+  "deepseek-v3.2": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "deepseek/deepseek-v3.2"
+  },
+  "deepseek-r1": {
+    "score": 0.0,
+    "status": "ERR:Error code: 402 - {'error': {'message': 'This request re",
+    "model_id": "deepseek/deepseek-r1"
+  },
+  "llama-3.3-70b-instruct": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "meta-llama/llama-3.3-70b-instruct"
+  },
+  "llama-3.1-70b-instruct": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "meta-llama/llama-3.1-70b-instruct"
+  },
+  "gemma-3-27b-it": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "google/gemma-3-27b-it"
+  },
+  "mistral-large-2512": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "mistralai/mistral-large-2512"
+  },
+  "qwen-2.5-72b-instruct": {
+    "score": 1.0,
+    "status": "FULL CODE",
+    "model_id": "qwen/qwen-2.5-72b-instruct"
+  }
+}
